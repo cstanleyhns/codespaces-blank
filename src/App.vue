@@ -3,7 +3,7 @@
     <h1>Countdown to our retirement</h1>
     <p class="countdown-text">{{ daysLeft }} days left until retirement</p>
     <p class="countdown-text">{{ weeksLeft }} weeks left until retirement</p>
-    <p class="countdown-text">{{ yearsLeft }} years left until retirement</p>
+    <p class="countdown-text">{{ yearsLeft }} years left until retirements</p>
   </div>
 </template>
 
